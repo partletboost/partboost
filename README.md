@@ -1,2 +1,2 @@
 # partboost
-Simplified Partlet Boost package.
+Simplified partletboost package.
